@@ -1,7 +1,11 @@
 aid: alpha-natural-resources
-url: https://raw.githubusercontent.com/api-evangelist/alpha-natural-resources/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/alpha-natural-resources/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.alpha-natural-resources.com
+description: >-
+  Alpha Natural Resources is a producer of metallurgical and thermal coal in the United
+  States, mining and processing coal for steelmaking and electric power generation.
