@@ -1,11 +1,62 @@
 aid: alpha-natural-resources
-url: 
-  https://raw.githubusercontent.com/api-evangelist/alpha-natural-resources/refs/heads/main/apis.yml
-modified: '2026-03-23'
-apis: []
-common:
-  - type: Website
-    url: https://www.alpha-natural-resources.com
+url: https://raw.githubusercontent.com/api-evangelist/alpha-natural-resources/refs/heads/main/apis.yml
+name: Alpha Natural Resources
+tags:
+  - Mining
+  - Coal
+  - Natural Resources
+  - Energy
+  - Commodities
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 description: >-
   Alpha Natural Resources is a producer of metallurgical and thermal coal in the United
-  States, mining and processing coal for steelmaking and electric power generation.
+  States, mining and processing coal for steelmaking and electric power generation. The
+  company does not offer public developer APIs, but participates in commodity trading
+  data exchanges and supply chain integration with steel producers and utilities.
+created: '2024-01-01'
+modified: '2026-04-19'
+specificationVersion: '0.19'
+apis: []
+common:
+  - url: https://www.alphanr.com/
+    type: Website
+  - url: https://www.alphanr.com/contact/
+    type: Support
+  - type: Features
+    data:
+      - name: Supply Chain Integration
+        description: >-
+          EDI and supply chain integration with steel producers and electric utilities
+          for coal supply contract management and shipment tracking.
+      - name: Commodity Data Exchange
+        description: >-
+          Participation in commodity trading data networks for metallurgical and
+          thermal coal price discovery and contract settlement.
+      - name: Mining Operations Data
+        description: >-
+          Internal operational data systems for mine production, safety metrics,
+          environmental compliance, and logistics management.
+  - type: UseCases
+    data:
+      - name: Steel Producer Integration
+        description: >-
+          Supply chain integration with integrated steel mills for metallurgical
+          coal delivery scheduling, quality certificates, and logistics coordination.
+      - name: Utility Coal Supply
+        description: >-
+          Long-term thermal coal supply contract management with electric utilities
+          including delivery scheduling and quality reporting.
+  - type: Integrations
+    data:
+      - name: EDI Networks
+        description: >-
+          Electronic data interchange with steel producers and utilities for
+          purchase orders, advance ship notices, and invoices.
+      - name: Commodity Trading Platforms
+        description: >-
+          Data integration with commodity trading systems for coal price
+          indices and contract settlement.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

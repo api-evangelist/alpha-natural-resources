@@ -1,11 +1,19 @@
-# Alpha Natural Resources
+# Alpha Natural Resources (alpha-natural-resources)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Alpha Natural Resources.
+Alpha Natural Resources is a producer of metallurgical and thermal coal in the United States, mining and processing coal for steelmaking and electric power generation. The company does not offer public developer APIs, but participates in commodity trading data exchanges and supply chain integration with steel producers and utilities.
 
-## APIs
+**Website:** [https://www.alphanr.com/](https://www.alphanr.com/)
 
-No APIs have been documented yet. Check back for updates.
+## Status
 
-## Properties
+Alpha Natural Resources does not offer public developer APIs. This repository tracks known supply chain integration patterns and commodity data exchange capabilities.
 
-- [Website](https://www.alpha-natural-resources.com)
+## Capabilities
+
+- **Supply Chain Integration** — EDI integration with steel producers and utilities for coal supply management
+- **Commodity Data Exchange** — Participation in commodity trading networks for coal price discovery
+- **Mining Operations Data** — Internal operational data systems for production, safety, and compliance
+
+## Maintainer
+
+Kin Lane — kin@apievangelist.com
