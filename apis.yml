@@ -15,7 +15,7 @@ description: >-
   company does not offer public developer APIs, but participates in commodity trading
   data exchanges and supply chain integration with steel producers and utilities.
 created: '2024-01-01'
-modified: '2026-04-19'
+modified: '2026-06-20'
 specificationVersion: '0.19'
 apis: []
 common:
@@ -23,6 +23,10 @@ common:
     type: Website
   - url: https://www.alphanr.com/contact/
     type: Support
+  - type: LLMsTxt
+    url: llms/alpha-natural-resources-llms.txt
+  - type: WellKnown
+    url: well-known/alpha-natural-resources-well-known.yml
   - type: Features
     data:
       - name: Supply Chain Integration

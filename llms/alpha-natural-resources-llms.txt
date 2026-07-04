@@ -1,0 +1,18 @@
+# Alpha Natural Resources
+
+> Alpha Natural Resources is a producer of metallurgical and thermal coal in the United States, mining and processing coal for steelmaking and electric power generation. The company does not offer public developer APIs, but participates in commodity trading data exchanges and supply chain integration with steel producers and utilities.
+
+## Provider
+- [Website](https://www.alphanr.com/): Corporate website for Alpha Natural Resources.
+- [Support / Contact](https://www.alphanr.com/contact/): Contact page for the company.
+
+## APIs
+- No public developer APIs are currently published by this provider.
+
+## Data & Integration Surfaces
+- Supply Chain Integration: EDI and supply chain integration with steel producers and electric utilities for coal supply contract management and shipment tracking.
+- Commodity Data Exchange: Participation in commodity trading data networks for metallurgical and thermal coal price discovery and contract settlement.
+- Mining Operations Data: Internal operational data systems for mine production, safety metrics, environmental compliance, and logistics management.
+
+## Notes
+- This file was generated from the API Evangelist catalog entry (apis.yml); no `/llms.txt` was published on the provider host at generation time.
