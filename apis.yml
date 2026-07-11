@@ -19,6 +19,8 @@ modified: '2026-06-20'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/alpha-natural-resources-domain-security.yml
   - url: https://www.alphanr.com/
     type: Website
   - url: https://www.alphanr.com/contact/
