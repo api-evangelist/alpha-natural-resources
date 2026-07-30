@@ -8,7 +8,18 @@ tags:
   - Energy
   - Commodities
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/alpha-natural-resources.png
 description: >-
   Alpha Natural Resources is a producer of metallurgical and thermal coal in the United
   States, mining and processing coal for steelmaking and electric power generation. The
